@@ -1,4 +1,7 @@
-teste
-1
-2
-3
+Julia,1,10
+Julia,2,8000
+Julia,3,5
+Felipe,1,50
+Felipe,2,110
+Felipe,3,1002
+
